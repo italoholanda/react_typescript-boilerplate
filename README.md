@@ -18,6 +18,7 @@ I wanted to create a very basic boilerplate for React applications with some sup
 - `@babel/core`
 - `@babel/cli`
 - `@babel/preset-env`
+- `@babel/preset-typescript`
 - `babel-loader`
 - `webpack`
 - `webpack-cli`
@@ -31,3 +32,4 @@ I wanted to create a very basic boilerplate for React applications with some sup
 - `@pmmmwh/react-refresh-webpack-plugin`
 - `react-refresh`
 - `typescript`
+- `@types/react-dom`
