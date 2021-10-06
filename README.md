@@ -30,4 +30,4 @@ I wanted to create a very basic boilerplate for React applications with some sup
 - `node-sass`
 - `@pmmmwh/react-refresh-webpack-plugin`
 - `react-refresh`
-
+- `typescript`
